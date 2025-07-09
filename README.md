@@ -1,6 +1,6 @@
 ## 📬 Contact Me
 
-Hi, I'm **Rohit** (aka `rohitbuilds-dev`) — a passionate **Full Stack Developer** skilled in creating modern, scalable web applications using **ReactJS** on the frontend and currently **pursuing backend development with ASP.NET Core**.
+Hi, I'm **Rohit** ( `rohitbuilds-dev`) — a passionate **Full Stack Developer** skilled in creating modern, scalable web applications using **ReactJS** on the frontend and currently **pursuing backend development with ASP.NET Core**.
 
 ---
 
